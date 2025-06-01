@@ -1,2 +1,3 @@
 # Django-portfolio
-Building my portfolio as i learn django
+Built using Django, SQLite and Bootstrap
+
